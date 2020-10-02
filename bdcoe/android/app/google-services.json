@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "249603359366",
+    "firebase_url": "https://login-big-data.firebaseio.com",
+    "project_id": "login-big-data",
+    "storage_bucket": "login-big-data.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249603359366:android:4f6cd98fb62f5748f80707",
+        "android_client_info": {
+          "package_name": "com.example.bdcoe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249603359366-6pd58p3qijblpk1bo0p86d0qql9cm13b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLoUbFdnsEv-F3wHqVRdb6qGPm94mrr3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249603359366-6pd58p3qijblpk1bo0p86d0qql9cm13b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
